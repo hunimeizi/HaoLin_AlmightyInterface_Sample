@@ -1,0 +1,1 @@
+# HaoLin_AlmightyInterface_Sample-- 万能接口实现组件之间的通讯
